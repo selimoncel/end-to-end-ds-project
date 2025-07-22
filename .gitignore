@@ -208,3 +208,7 @@ __marimo__/
 
 # MacOS system file
 .DS_Store
+
+
+mlproj/
+# MLProj
